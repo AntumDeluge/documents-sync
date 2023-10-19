@@ -1,0 +1,51 @@
+Q: Jane's father has 5 daughters, Bebe, Bibi, Bobo, Bubu, ... Who is the fifth?
+A: Jane
+---
+Q: A pond is getting covered with lily pads as they grow, the amount covered doubles
+   every day. it takes 48 days for the pond to be fully covered, after how many days was
+   half covered?
+A: 47
+---
+Q: What is once in a lifetime, twice in a moment, but never in a thousand years?
+A: M
+---
+Q: I stand in a house, the windows on every side of the house face south. A bear just
+   walked past. What colour is the bear?
+A: white
+---
+Q: How many birthdays does the average person have?
+A: 1
+---
+Q: I harvest souls of the living and place them into jars. Today, if I put one soul in
+   each jar I have, one soul is left over. But if I put 2 souls into each jar, I am left
+   with one empty jar. How many souls must I have?
+A: 4
+---
+Q: My fruit bowl has 40 pieces of fruit. There are 3 times more plums than oranges, and
+   6 times more grapes than oranges. How many plums are in the bowl?
+A: 12 (there are 4 oranges)
+---
+Q: What is that, over the head and under the hat?
+A: hair
+---
+Q: How many animals did moses carry on the ark?
+A: 0
+---
+Q: 1, 2, 3, 5, 7, 11, 13, what number next?
+A: 17 (prime numbers)
+---
+Q: Long and thin, red within, and a nail on the end, it's a ... ?
+A: finger
+---
+Q: A bat and ball in total cost 1.10 and the bat costs 1.00 more than the ball, what
+   does the bat cost?
+A: 1.00
+---
+Q: 0, 7, 26, 63, what number next?
+A: 124
+---
+Q: If 5 machines make 5 widgets in 5 days how many days does it take 100 machines to make 100 widgets?
+A: 5
+---
+Q: I am thinking of a 3 digit number. The 'hundreds' digit is 8 less than the 'tens' digit, and the 'tens' digit is 5 more than the 'units' digit. What number am I thinking of?
+A: 194

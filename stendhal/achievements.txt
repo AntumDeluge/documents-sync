@@ -766,6 +766,33 @@ Stormin - obtain
 
 *** PRODUCTION ***
 
+-------------------
+Deluge - production
+- Sowing Flowers (sow 1,000 of each flower)
+  - daisies:      1000
+  - lilia:        1000
+  - pansy:        1000
+  - zantedeschia: 1000
+
+
+-------------------
+Seriph - production
+- Sowing Flowers (sow 1,000 of each flower)
+  - daisies:      1000
+  - lilia:        1000
+  - pansy:        1000
+  - zantedeschia: 1000
+
+
+-------------------
+Tendai - production
+- Sowing Flowers (sow 1,000 of each flower)
+  - daisies:      1000
+  - lilia:        1000
+  - pansy:        1000
+  - zantedeschia: 1000
+
+
 ------------------
 Dodle - production
 - Alchemist (produce 5 of reach resource):
@@ -775,6 +802,11 @@ Dodle - production
   - Granny Graham (tea: 1 milk, 1 honey):
   - Uncle Dag (fierywater: 5 sugar cane, 1 wood): 🗸
   - ??? (pina colada: 1 pineapple, 1 coconut):
+- Sowing Flowers (sow 1,000 of each flower)
+  - daisies:      1000
+  - lilia:        1000
+  - pansy:        1000
+  - zantedeschia: 1000
 
 
 -------------------
@@ -785,6 +817,11 @@ Storks - production
 - Thirsty Worker (order all drinks):
   - Granny Graham (tea: 1 milk, 1 honey):
   - Uncle Dag (fierywater: 5 sugar cane, 1 wood): 🗸
+- Sowing Flowers (sow 1,000 of each flower)
+  - daisies:      1000
+  - lilia:        1000
+  - pansy:        1000
+  - zantedeschia: 1000
 
 
 --------------------
@@ -808,6 +845,11 @@ Stormin - production
 - Thirsty Worker (order all drinks):
   - Granny Graham (tea: 1 milk, 1 honey):
   - Uncle Dag (fierywater: 5 sugar cane, 1 wood): 🗸
+- Sowing Flowers (sow 1,000 of each flower)
+  - daisies:      1000
+  - lilia:        1000
+  - pansy:        1000
+  - zantedeschia: 1000
 
 
 *** DEATHMATCH ***

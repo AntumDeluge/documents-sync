@@ -167,13 +167,11 @@ Kill 25 deer
 
 Kill 10 ents, 10 entwives and 10 old ents (solo or shared)
 
-| Enemy | Deluge | Seriph | Tendai | Antum | Dodle | Storks | Stormin |
-| ----- | ------ | ------ | ------ | ----- | ----- | ------ | ------- |
-
-- Stormin - Wood Cutter (10 of each):
-  - ent: 4
-  - entwife: 10
-  - old ent: 8
+| Enemy   | Deluge | Seriph | Tendai | Antum | Dodle | Storks | Stormin |
+| ------- | ------ | ------ | ------ | ----- | ----- | ------ | ------- |
+| ent     |      ✔ |      ✔ |      ✔ |     ✔ |    10 |     10 |       4 |
+| entwife |      ✔ |      ✔ |      ✔ |     ✔ |    10 |     10 |      10 |
+| old ent |      ✔ |      ✔ |      ✔ |     ✔ |    10 |     10 |       8 |
 
 
 ## Exterminator

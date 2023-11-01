@@ -7,58 +7,58 @@ Purchase 100 bottles of beer & 100 glasses of wine
 
 | Item | Deluge | Seriph | Tendai | Antum | Dodle | Storks | Stormin |
 | ---- | ------ | ------ | ------ | ----- | ----- | ------ | ------- |
-| beer | ✔      | ✔      | ✔      | ✔     | ✔     | ✔      | ✔       |
-| wine | ✔      | ✔      | ✔      | ✔     | ✔     | ✔      | ✔       |
+| beer |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |      ✔ |       ✔ |
+| wine |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |      ✔ |       ✔ |
 
 
 ## Community Supporter
 
 | NPC                       | Deluge | Seriph | Tendai | Antum | Dodle | Storks | Stormin |
 | ------------------------- | ------ | ------ | ------ | ----- | ----- | ------ | ------- |
-| Adena (500)               | ✔      | ✔      | ✔      |       |       |        | ✔       |
-| Akutagawa (1,000)         | ✔      | ✔      | ✔      |       |       |        |         |
-| Aldrin (2,000)            | ✔      | ✔      | ✔      |       |       |        |         |
-| Barbarus (400)            | ✔      | ✔      | ✔      |       |       |        |         |
-| Carmen (2,000)            | ✔      | ✔      | ✔      |       |       |        |         |
-| Coralia (500)             | ✔      | ✔      | ✔      |       |       |        |         |
-| D J Smith (4,000)         | ✔      | ✔      | ✔      |       |       |        |         |
-| Dale (500)                | ✔      | ✔      | ✔      |       |       |        |         |
-| Diehelm Brui (1,000)      | ✔      | ✔      | ✔      |       |       |        |         |
-| Dr. Feelgood (8,000)      | ✔      | ✔      | ✔      |       |       |        |         |
-| Erodel Bmud (20,000)      | ✔      | ✔      | ✔      |       |       |        |         |
-| Fleur (1,000)             | ✔      | ✔      | ✔      |       |       |        |         |
-| Haizen (10,000)           | ✔      | ✔      | ✔      |       |       |        |         |
-| Hazel (16,000)            | ✔      | ✔      | ✔      |       |       |        |         |
-| Ilisa (4,000)             | ✔      | ✔      | ✔      |       |       |        |         |
-| Jenny (1,000)             | ✔      | ✔      | ✔      |       | ✔     | ✔      | ✔       |
-| Jimbo (2,000)             | ✔      | ✔      | ✔      |       |       |        |         |
-| Jynath (16,000)           | ✔      | ✔      | ✔      |       |       |        |         |
-| Karl (50)                 | ✔      | ✔      | ✔      |       |       |        |         |
-| Kendra Mattori (16,000)   | ✔      | ✔      | ✔      |       |       |        |         |
-| Laura (2,000)             | ✔      | ✔      | ✔      |       |       |        |         |
-| Lorithien (10,000)        | ✔      | ✔      | ✔      |       |       |        |         |
-| Margaret (1,000)          | ✔      | ✔      | ✔      |       |       |        | ✔       |
-| Mayor Chalmers (10,000)   | ✔      | ✔      | ✔      |       |       | ✔      |         |
-| Mia (2,000)               | ✔      | ✔      | ✔      |       |       |        | ✔       |
-| Mirielle (20,000)         | ✔      | ✔      | ✔      |       |       |        |         |
-| Mrotho (2,500)            | ✔      | ✔      | ✔      |       |       |        |         |
-| Nishiya (60)              | ✔      | ✔      | ✔      |       |       |        |         |
-| Old Mother Helena (2,500) | ✔      | ✔      | ✔      |       |       |        |         |
-| Orchiwald (9,000)         | ✔      | ✔      | ✔      |       |       |        |         |
-| Ouchit (400)              | ✔      | ✔      | ✔      |       |       |        |         |
-| Philomena (200)           | ✔      | ✔      | ✔      |       |       |        |         |
-| Ruarhi (2,000)            | ✔      | ✔      | ✔      |       |       |        |         |
-| Sam (600)                 | ✔      | ✔      | ✔      |       |       |        |         |
-| Sara Beth (2,500)         | ✔      | ✔      | ✔      |       |       |        |         |
-| Sarzina (17,000)          | ✔      | ✔      | ✔      |       |       |        |         |
-| Sue (1,000)               | ✔      | ✔      | ✔      |       |       |        |         |
-| Trillium (2,500)          | ✔      | ✔      | ✔      |       |       |        |         |
-| Wanda (20,000)            | ✔      | ✔      | ✔      |       |       |        |         |
-| Wrvil (300)               | ✔      | ✔      | ✔      |       |       |        |         |
-| Wrviliza (200)            | ✔      | ✔      | ✔      |       |       |        |         |
-| Xhiphin Zohos (12,000)    | ✔      | ✔      | ✔      |       |       |        |         |
-| Xin Blanca (190)          | ✔      | ✔      | ✔      |       |       |        |         |
-| Xoderos (570)             | ✔      | ✔      | ✔      |       |       |        |         |
+| Adena (500)               |      ✔ |      ✔ |      ✔ |       |       |        |       ✔ |
+| Akutagawa (1,000)         |      ✔ |      ✔ |      ✔ |       |       |        |         |
+| Aldrin (2,000)            |      ✔ |      ✔ |      ✔ |       |       |        |         |
+| Barbarus (400)            |      ✔ |      ✔ |      ✔ |       |       |        |         |
+| Carmen (2,000)            |      ✔ |      ✔ |      ✔ |       |       |        |         |
+| Coralia (500)             |      ✔ |      ✔ |      ✔ |       |       |        |         |
+| D J Smith (4,000)         |      ✔ |      ✔ |      ✔ |       |       |        |         |
+| Dale (500)                |      ✔ |      ✔ |      ✔ |       |       |        |         |
+| Diehelm Brui (1,000)      |      ✔ |      ✔ |      ✔ |       |       |        |         |
+| Dr. Feelgood (8,000)      |      ✔ |      ✔ |      ✔ |       |       |        |         |
+| Erodel Bmud (20,000)      |      ✔ |      ✔ |      ✔ |       |       |        |         |
+| Fleur (1,000)             |      ✔ |      ✔ |      ✔ |       |       |        |         |
+| Haizen (10,000)           |      ✔ |      ✔ |      ✔ |       |       |        |         |
+| Hazel (16,000)            |      ✔ |      ✔ |      ✔ |       |       |        |         |
+| Ilisa (4,000)             |      ✔ |      ✔ |      ✔ |       |       |        |         |
+| Jenny (1,000)             |      ✔ |      ✔ |      ✔ |       |     ✔ |      ✔ |       ✔ |
+| Jimbo (2,000)             |      ✔ |      ✔ |      ✔ |       |       |        |         |
+| Jynath (16,000)           |      ✔ |      ✔ |      ✔ |       |       |        |         |
+| Karl (50)                 |      ✔ |      ✔ |      ✔ |       |       |        |         |
+| Kendra Mattori (16,000)   |      ✔ |      ✔ |      ✔ |       |       |        |         |
+| Laura (2,000)             |      ✔ |      ✔ |      ✔ |       |       |        |         |
+| Lorithien (10,000)        |      ✔ |      ✔ |      ✔ |       |       |        |         |
+| Margaret (1,000)          |      ✔ |      ✔ |      ✔ |       |       |        |       ✔ |
+| Mayor Chalmers (10,000)   |      ✔ |      ✔ |      ✔ |       |       |      ✔ |         |
+| Mia (2,000)               |      ✔ |      ✔ |      ✔ |       |       |        |       ✔ |
+| Mirielle (20,000)         |      ✔ |      ✔ |      ✔ |       |       |        |         |
+| Mrotho (2,500)            |      ✔ |      ✔ |      ✔ |       |       |        |         |
+| Nishiya (60)              |      ✔ |      ✔ |      ✔ |       |       |        |         |
+| Old Mother Helena (2,500) |      ✔ |      ✔ |      ✔ |       |       |        |         |
+| Orchiwald (9,000)         |      ✔ |      ✔ |      ✔ |       |       |        |         |
+| Ouchit (400)              |      ✔ |      ✔ |      ✔ |       |       |        |         |
+| Philomena (200)           |      ✔ |      ✔ |      ✔ |       |       |        |         |
+| Ruarhi (2,000)            |      ✔ |      ✔ |      ✔ |       |       |        |         |
+| Sam (600)                 |      ✔ |      ✔ |      ✔ |       |       |        |         |
+| Sara Beth (2,500)         |      ✔ |      ✔ |      ✔ |       |       |        |         |
+| Sarzina (17,000)          |      ✔ |      ✔ |      ✔ |       |       |        |         |
+| Sue (1,000)               |      ✔ |      ✔ |      ✔ |       |       |        |         |
+| Trillium (2,500)          |      ✔ |      ✔ |      ✔ |       |       |        |         |
+| Wanda (20,000)            |      ✔ |      ✔ |      ✔ |       |       |        |         |
+| Wrvil (300)               |      ✔ |      ✔ |      ✔ |       |       |        |         |
+| Wrviliza (200)            |      ✔ |      ✔ |      ✔ |       |       |        |         |
+| Xhiphin Zohos (12,000)    |      ✔ |      ✔ |      ✔ |       |       |        |         |
+| Xin Blanca (190)          |      ✔ |      ✔ |      ✔ |       |       |        |         |
+| Xoderos (570)             |      ✔ |      ✔ |      ✔ |       |       |        |         |
 
 
 ## Traveling Peddler
@@ -67,7 +67,7 @@ Make 20,000 money in sales.
 
 | Deluge | Seriph | Tendai | Antum  | Dodle  | Storks | Stormin |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------- |
-| ✔      | ✔      | ✔      | ✔      | ✔      | ✔      | ✔       |
+|      ✔ |      ✔ |      ✔ |      ✔ |      ✔ |      ✔ |       ✔ |
 
 
 # Deathmatch ![icon.deathmatch]
@@ -132,50 +132,50 @@ Earn 100,000 points in deathmatch
 
 | Item               | Deluge | Seriph | Tendai | Antum | Dodle | Storks | Stormin |
 | ------------------ | ------ | ------ | ------ | ----- | ----- | ------ | ------- |
-| magic plate armor  | ✔      | ✔      | ✔      |       |       |        |         |
-| magic plate boots  | ✔      |        |        |       |       |        |         |
-| magic cloak        | ✔      | ✔      | ✔      |       |       |        |         |
-| magic chain helmet | ✔      | ✔      | ✔      | ✔     |       |        |         |
-| magic plate legs   | ✔      | ✔      |        |       |       |        |         |
-| magic plate shield | ✔      | ✔      | ✔      |       |       |        |         |
+| magic plate armor  |      ✔ |      ✔ |      ✔ |       |       |        |         |
+| magic plate boots  |      ✔ |        |        |       |       |        |         |
+| magic cloak        |      ✔ |      ✔ |      ✔ |       |       |        |         |
+| magic chain helmet |      ✔ |      ✔ |      ✔ |     ✔ |       |        |         |
+| magic plate legs   |      ✔ |      ✔ |        |       |       |        |         |
+| magic plate shield |      ✔ |      ✔ |      ✔ |       |       |        |         |
 
 
 ## Nalwor's Bane
 
 | Item          | Deluge | Seriph | Tendai | Antum | Dodle | Storks | Stormin |
 | ------------- | ------ | ------ | ------ | ----- | ----- | ------ | ------- |
-| elvish armor  | ✔      | ✔      | ✔      | ✔     | ✔     | ✔      |         |
-| elvish boots  | ✔      | ✔      | ✔      | ✔     | ✔     |        |         |
-| elvish cloak  | ✔      | ✔      | ✔      | ✔     | ✔     | ✔      |         |
-| elvish hat    | ✔      | ✔      | ✔      | ✔     | ✔     | ✔      |         |
-| elvish legs   | ✔      | ✔      | ✔      | ✔     | ✔     | ✔      |         |
-| elvish shield | ✔      | ✔      | ✔      | ✔     | ✔     |        |         |
+| elvish armor  |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |      ✔ |         |
+| elvish boots  |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |        |         |
+| elvish cloak  |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |      ✔ |         |
+| elvish hat    |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |      ✔ |         |
+| elvish legs   |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |      ✔ |         |
+| elvish shield |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |        |         |
 
 
 ## Royally Endowed
 
 | Item         | Deluge | Seriph | Tendai | Antum | Dodle | Storks | Stormin |
 | ------------ | ------ | ------ | ------ | ----- | ----- | ------ | ------- |
-| royal armor  | ✔      |        |        |       |       |        |         |
-| royal boots  | ✔      | ✔      | ✔      |       |       |        |         |
-| royal cloak  | ✔      | ✔      | ✔      |       |       |        |         |
-| royal helmet | ✔      |        |        |       |       |        |         |
-| royal legs   | ✔      | ✔      | ✔      |       |       |        |         |
-| royal shield | ✔      | ✔      | ✔      |       |       |        |         |
+| royal armor  |      ✔ |        |        |       |       |        |         |
+| royal boots  |      ✔ |      ✔ |      ✔ |       |       |        |         |
+| royal cloak  |      ✔ |      ✔ |      ✔ |       |       |        |         |
+| royal helmet |      ✔ |        |        |       |       |        |         |
+| royal legs   |      ✔ |      ✔ |      ✔ |       |       |        |         |
+| royal shield |      ✔ |      ✔ |      ✔ |       |       |        |         |
 
 
 ## Cheeze Wiz
 
 | Item           | Deluge | Seriph | Tendai | Antum | Dodle | Storks | Stormin |
 | -------------- | ------ | ------ | ------ | ----- | ----- | ------ | ------- |
-| cheese (2,000) | ✔      | ✔      | ✔      | ✔     | 2,000 | 2,000  | 2,000   |
+| cheese (2,000) |      ✔ |      ✔ |      ✔ |     ✔ | 2,000 | 2,000  | 2,000   |
 
 
 ## Ham Hocks
 
 | Item        | Deluge | Seriph | Tendai | Antum | Dodle | Storks | Stormin |
 | ----------- | ------ | ------ | ------ | ----- | ----- | ------ | ------- |
-| ham (2,500) | ✔      | ✔      | ✔      | 2,500 | 2,500 | 2,500  | 2,500   |
+| ham (2,500) |      ✔ |      ✔ |      ✔ | 2,500 | 2,500 | 2,500  | 2,500   |
 
 
 # Kills ![icon.fighting]
@@ -296,10 +296,10 @@ Kill all creatures solo
 
 |                | Deluge | Seriph | Tendai | Antum | Dodle | Storks | Stormin |
 | -------------- | ------ | ------ | ------ | ----- | ----- | ------ | ------- |
-| done           | ✔      |        |        |       |       |        |         |
-| bat            | ✔      | ✔      | ✔      |       | ✔     |        |         |
-| dark archangel | ✔      | ✔      | ✔      |       |       |        |         |
-| golden death   | ✔      |        |        |       |       |        |         |
+| done           |      ✔ |        |        |       |       |        |         |
+| bat            |      ✔ |      ✔ |      ✔ |       |     ✔ |        |         |
+| dark archangel |      ✔ |      ✔ |      ✔ |       |       |        |         |
+| golden death   |      ✔ |        |        |       |       |        |         |
 
 
 ## Team Player
@@ -308,8 +308,8 @@ Kill all creatures in a team
 
 |              | Deluge | Seriph | Tendai | Antum | Dodle | Storks | Stormin |
 | ------------ | ------ | ------ | ------ | ----- | ----- | ------ | ------- |
-| done         | ✔      | ✔      | ✔      |       |       |        |         |
-| golden death | ✔      | ✔      | ✔      |       |       |        |         |
+| done         |      ✔ |      ✔ |      ✔ |       |       |        |         |
+| golden death |      ✔ |      ✔ |      ✔ |       |       |        |         |
 
 
 ## Pachyderm Mayhem
@@ -344,95 +344,95 @@ Kill 500 zombies (solo or shared)
 
 | Enemy       | Deluge | Seriph | Tendai | Antum  | Dodle  | Storks | Stormin |
 | ----------- | ------ | ------ | ------ | ------ | ------ | ------ | ------- |
-| centaur     | ✔      |        | ✔      |        |        |        |         |
-| ghost hound | ✔      | ✔      | ✔      |        |        |        |         |
+| centaur     |      ✔ |        |      ✔ |        |        |        |         |
+| ghost hound |      ✔ |      ✔ |      ✔ |        |        |        |         |
 | golden orc  |        |        |        |        |        |        |         |
 | pegasus     |        |        |        |        |        |        |         |
-| unicorn     | ✔      |        |        |        |        |        |         |
+| unicorn     |      ✔ |        |        |        |        |        |         |
 
 
 ## Rare Shared
 
 | Enemy       | Deluge | Seriph | Tendai | Antum  | Dodle  | Storks | Stormin |
 | ----------- | ------ | ------ | ------ | ------ | ------ | ------ | ------- |
-| centaur     | ✔      | ✔      | ✔      |        |        |        |         |
-| ghost hound | ✔      | ✔      | ✔      |        |        |        |         |
+| centaur     |      ✔ |      ✔ |      ✔ |        |        |        |         |
+| ghost hound |      ✔ |      ✔ |      ✔ |        |        |        |         |
 | golden orc  |        |        |        |        |        |        |         |
 | pegasus     |        |        |        |        |        |        |         |
-| unicorn     | ✔      | ✔      | ✔      | ✔      | ✔      | ✔      |         |
+| unicorn     |      ✔ |      ✔ |      ✔ |      ✔ |      ✔ |      ✔ |         |
 
 
 Dodle - kills
 -------------
 - Legend (solo):
-  - bat: 🗸
-  - boar: 🗸
-  - crab: 🗸
-  - lion: 🗸
-  - monkey: 🗸
-  - mouse: 🗸
-  - rat: 🗸
+  - bat: ✔
+  - boar: ✔
+  - crab: ✔
+  - lion: ✔
+  - monkey: ✔
+  - mouse: ✔
+  - rat: ✔
 - Team Player (shared):
-  - bat: 🗸
-  - black slime: 🗸
-  - boar: 🗸
-  - brown slime: 🗸
-  - cannibal: 🗸
-  - cannibal warrior: 🗸
-  - cannibal woman: 🗸
-  - crab: 🗸
-  - elder cannibal: 🗸
-  - elephant: 🗸
-  - green slime: 🗸
-  - lion: 🗸
-  - monk: 🗸
-  - monkey: 🗸
-  - mummy: 🗸
-  - orc: 🗸
-  - orc warrior: 🗸
-  - rat: 🗸
-  - snake: 🗸
-  - stone golem: 🗸
-  - tiger: 🗸
-  - turtle: 🗸
-  - wooden golem: 🗸
+  - bat: ✔
+  - black slime: ✔
+  - boar: ✔
+  - brown slime: ✔
+  - cannibal: ✔
+  - cannibal warrior: ✔
+  - cannibal woman: ✔
+  - crab: ✔
+  - elder cannibal: ✔
+  - elephant: ✔
+  - green slime: ✔
+  - lion: ✔
+  - monk: ✔
+  - monkey: ✔
+  - mummy: ✔
+  - orc: ✔
+  - orc warrior: ✔
+  - rat: ✔
+  - snake: ✔
+  - stone golem: ✔
+  - tiger: ✔
+  - turtle: ✔
+  - wooden golem: ✔
 
 
 Storks - kills
 --------------
 - Legend (solo):
-  - bat: 🗸
-  - boar: 🗸
-  - crab: 🗸
-  - elephant: 🗸
-  - lion: 🗸
-  - monkey: 🗸
-  - rat: 🗸
-  - turtle: 🗸
+  - bat: ✔
+  - boar: ✔
+  - crab: ✔
+  - elephant: ✔
+  - lion: ✔
+  - monkey: ✔
+  - rat: ✔
+  - turtle: ✔
 - Team Player (shared):
-  - bat: 🗸
-  - black slime: 🗸
-  - boar: 🗸
-  - brown slime: 🗸
-  - cannibal: 🗸
-  - cannibal warrior: 🗸
-  - cannibal woman: 🗸
-  - crab: 🗸
-  - elder cannibal: 🗸
-  - elephant: 🗸
-  - green slime: 🗸
-  - lion: 🗸
-  - monk: 🗸
-  - monkey: 🗸
-  - mummy: 🗸
-  - orc: 🗸
-  - orc warrior: 🗸
-  - rat: 🗸
-  - snake: 🗸
-  - stone golem: 🗸
-  - tiger: 🗸
-  - turtle: 🗸
-  - wooden golem: 🗸
+  - bat: ✔
+  - black slime: ✔
+  - boar: ✔
+  - brown slime: ✔
+  - cannibal: ✔
+  - cannibal warrior: ✔
+  - cannibal woman: ✔
+  - crab: ✔
+  - elder cannibal: ✔
+  - elephant: ✔
+  - green slime: ✔
+  - lion: ✔
+  - monk: ✔
+  - monkey: ✔
+  - mummy: ✔
+  - orc: ✔
+  - orc warrior: ✔
+  - rat: ✔
+  - snake: ✔
+  - stone golem: ✔
+  - tiger: ✔
+  - turtle: ✔
+  - wooden golem: ✔
 
 
 ---------------
@@ -454,145 +454,145 @@ Stormin - kills
   - zombie:           1
             total:    0
 - Legend (solo):
-  - babybear: 🗸
-  - bear: 🗸
-  - beaver: 🗸
-  - black bear: 🗸
-  - black soime: 🗸
-  - boar: 🗸
-  - caiman: 🗸
-  - caverat: 🗸
-  - chick: 🗸
-  - chicken: 🗸
-  - clurichaun: 🗸
-  - cow: 🗸
-  - crab: 🗸
-  - crocodile: 🗸
-  - cyclops: 🗸
-  - deer: 🗸
-  - elephant: 🗸
-  - fox: 🗸
-  - gargoyle: 🗸
-  - ghost: 🗸
-  - giantrat: 🗸
-  - gnome: 🗸
-  - goat: 🗸
-  - grass snake: 🗸
-  - green slime: 🗸
-  - horse: 🗸
-  - killer bee: 🗸
-  - leprechaun: 🗸
-  - lion: 🗸
-  - littlefairy: 🗸
-  - littlewizard: 🗸
-  - mage gnome: 🗸
-  - mother hen: 🗸
-  - mouse: 🗸
-  - ogre: 🗸
-  - orc: 🗸
-  - orc warrior: 🗸
-  - panda: 🗸
-  - pigeon: 🗸
-  - piglet: 🗸
-  - rat: 🗸
-  - razorrat: 🗸
-  - skeleton: 🗸
-  - snake: 🗸
-  - tiger: 🗸
-  - tiny skelly: 🗸
-  - turtle: 🗸
-  - venomrat: 🗸
-  - white horse: 🗸
-  - wolf: 🗸
+  - babybear: ✔
+  - bear: ✔
+  - beaver: ✔
+  - black bear: ✔
+  - black soime: ✔
+  - boar: ✔
+  - caiman: ✔
+  - caverat: ✔
+  - chick: ✔
+  - chicken: ✔
+  - clurichaun: ✔
+  - cow: ✔
+  - crab: ✔
+  - crocodile: ✔
+  - cyclops: ✔
+  - deer: ✔
+  - elephant: ✔
+  - fox: ✔
+  - gargoyle: ✔
+  - ghost: ✔
+  - giantrat: ✔
+  - gnome: ✔
+  - goat: ✔
+  - grass snake: ✔
+  - green slime: ✔
+  - horse: ✔
+  - killer bee: ✔
+  - leprechaun: ✔
+  - lion: ✔
+  - littlefairy: ✔
+  - littlewizard: ✔
+  - mage gnome: ✔
+  - mother hen: ✔
+  - mouse: ✔
+  - ogre: ✔
+  - orc: ✔
+  - orc warrior: ✔
+  - panda: ✔
+  - pigeon: ✔
+  - piglet: ✔
+  - rat: ✔
+  - razorrat: ✔
+  - skeleton: ✔
+  - snake: ✔
+  - tiger: ✔
+  - tiny skelly: ✔
+  - turtle: ✔
+  - venomrat: ✔
+  - white horse: ✔
+  - wolf: ✔
 - Team Player:
-  - babybear: 🗸
-  - bear: 🗸
-  - beaver: 🗸
-  - black bear: 🗸
-  - black slime: 🗸
-  - boar: 🗸
-  - bull: 🗸
-  - caiman: 🗸
-  - caverat: 🗸
-  - chick: 🗸
-  - chicken: 🗸
-  - Chief Falatheen of the Risecia: 🗸
-  - child dark elf: 🗸
-  - clurchaun: 🗸
-  - commander elf: 🗸
-  - cow: 🗸
-  - crab: 🗸
-  - crocodile: 🗸
-  - cyclops: 🗸
-  - dark elf: 🗸
-  - death: 🗸
-  - death knight: 🗸
-  - deer: 🗸
-  - demon skeleton: 🗸
-  - elder gargoyle: 🗸
-  - elder skeleton: 🗸
-  - elf: 🗸
-  - elephant: 🗸
-  - ent: 🗸
-  - fallen high priest: 🗸
-  - fallen priest: 🗸
-  - fallen warrior: 🗸
-  - fox: 🗸
-  - gargoyle: 🗸
-  - ghost: 🗸
-  - giantrat: 🗸
-  - glow monster: 🗸
-  - gnome: 🗸
-  - goat: 🗸
-  - grass snake: 🗸
-  - green slime: 🗸
-  - horse: 🗸
-  - hunter: 🗸
-  - imperial veteran: 🗸
-  - incorporeal armor: 🗸
-  - invisible man: 🗸
-  - kalavan citizen: 🗸
-  - kalavan housewife: 🗸
-  - kalavan peasant: 🗸
-  - kalavan wisewoman: 🗸
-  - killer bee: 🗸
-  - leprechaun: 🗸
-  - lion: 🗸
-  - littlefairy: 🗸
-  - littlewizard: 🗸
-  - mage gnome: 🗸
-  - militia elf: 🗸
-  - mother hen: 🗸
-  - mouse: 🗸
-  - mummy: 🗸
-  - nymph: 🗸
-  - ogre: 🗸
-  - old ent: 🗸
-  - orc: 🗸
-  - orc warrior: 🗸
-  - panda: 🗸
-  - pigeon: 🗸
-  - piglet: 🗸
-  - ram: 🗸
-  - rat: 🗸
-  - razorrat: 🗸
-  - risecia archer: 🗸
-  - risecia swordsman: 🗸
-  - risecia thug: 🗸
-  - skeleton: 🗸
-  - snake: 🗸
-  - soldier elf: 🗸
-  - stone golem: 🗸
-  - tiger: 🗸
-  - tiny skelly: 🗸
-  - turtle: 🗸
-  - venomrat: 🗸
-  - warrior skeleton: 🗸
-  - water elemental: 🗸
-  - white horse: 🗸
-  - wolf: 🗸
-  - wooden golem: 🗸
-  - zombie: 🗸
+  - babybear: ✔
+  - bear: ✔
+  - beaver: ✔
+  - black bear: ✔
+  - black slime: ✔
+  - boar: ✔
+  - bull: ✔
+  - caiman: ✔
+  - caverat: ✔
+  - chick: ✔
+  - chicken: ✔
+  - Chief Falatheen of the Risecia: ✔
+  - child dark elf: ✔
+  - clurchaun: ✔
+  - commander elf: ✔
+  - cow: ✔
+  - crab: ✔
+  - crocodile: ✔
+  - cyclops: ✔
+  - dark elf: ✔
+  - death: ✔
+  - death knight: ✔
+  - deer: ✔
+  - demon skeleton: ✔
+  - elder gargoyle: ✔
+  - elder skeleton: ✔
+  - elf: ✔
+  - elephant: ✔
+  - ent: ✔
+  - fallen high priest: ✔
+  - fallen priest: ✔
+  - fallen warrior: ✔
+  - fox: ✔
+  - gargoyle: ✔
+  - ghost: ✔
+  - giantrat: ✔
+  - glow monster: ✔
+  - gnome: ✔
+  - goat: ✔
+  - grass snake: ✔
+  - green slime: ✔
+  - horse: ✔
+  - hunter: ✔
+  - imperial veteran: ✔
+  - incorporeal armor: ✔
+  - invisible man: ✔
+  - kalavan citizen: ✔
+  - kalavan housewife: ✔
+  - kalavan peasant: ✔
+  - kalavan wisewoman: ✔
+  - killer bee: ✔
+  - leprechaun: ✔
+  - lion: ✔
+  - littlefairy: ✔
+  - littlewizard: ✔
+  - mage gnome: ✔
+  - militia elf: ✔
+  - mother hen: ✔
+  - mouse: ✔
+  - mummy: ✔
+  - nymph: ✔
+  - ogre: ✔
+  - old ent: ✔
+  - orc: ✔
+  - orc warrior: ✔
+  - panda: ✔
+  - pigeon: ✔
+  - piglet: ✔
+  - ram: ✔
+  - rat: ✔
+  - razorrat: ✔
+  - risecia archer: ✔
+  - risecia swordsman: ✔
+  - risecia thug: ✔
+  - skeleton: ✔
+  - snake: ✔
+  - soldier elf: ✔
+  - stone golem: ✔
+  - tiger: ✔
+  - tiny skelly: ✔
+  - turtle: ✔
+  - venomrat: ✔
+  - warrior skeleton: ✔
+  - water elemental: ✔
+  - white horse: ✔
+  - wolf: ✔
+  - wooden golem: ✔
+  - zombie: ✔
 
 
 # Obtain ![icon.obtain]
@@ -706,6 +706,10 @@ Order all food types available from Faiumoni's cooks
 
 Produce 1,000 flour
 
+| Deluge | Seriph | Tendai | Antum | Dodle | Storks | Stormin |
+| ------ | ------ | ------ | ----- | ----- | ------ | ------- |
+|      ✔ |      ✔ |      ✔ |     ✔ | 1,000 |  1,000 |   1,000 |
+
 
 ## Sowing Flowers
 
@@ -728,10 +732,9 @@ Order all drink types available from Faiumoni's cooks
 Dodle - production
 - Alchemist (produce 5 of reach resource):
 - Gourmet (order all foods):
-- Jenny's Assistant (produce 1,000 flour):
 - Thirsty Worker (order all drinks):
   - Granny Graham (tea: 1 milk, 1 honey):
-  - Uncle Dag (fierywater: 5 sugar cane, 1 wood): 🗸
+  - Uncle Dag (fierywater: 5 sugar cane, 1 wood): ✔
   - ??? (pina colada: 1 pineapple, 1 coconut):
 
 
@@ -739,10 +742,9 @@ Dodle - production
 Storks - production
 - Alchemist (produce 5 of reach resource):
 - Gourmet (order all foods):
-- Jenny's Assistant (produce 1,000 flour):
 - Thirsty Worker (order all drinks):
   - Granny Graham (tea: 1 milk, 1 honey):
-  - Uncle Dag (fierywater: 5 sugar cane, 1 wood): 🗸
+  - Uncle Dag (fierywater: 5 sugar cane, 1 wood): ✔
 
 
 --------------------
@@ -759,13 +761,13 @@ Stormin - production
   - Leander (sandwich: 2 cheese, 1 bread, 1 ham):
   - Linzo (fish pie):
   - Martha (apple pie: 2 flour, 1 milk, 1 honey, 1 apple, 1 egg):
-  - Old Mother Helena (soup): 🗸
+  - Old Mother Helena (soup): ✔
   - Olmo:
 - Jenny's Assistant (produce 1,000 flour):
   - flour: 1,000
 - Thirsty Worker (order all drinks):
   - Granny Graham (tea: 1 milk, 1 honey):
-  - Uncle Dag (fierywater: 5 sugar cane, 1 wood): 🗸
+  - Uncle Dag (fierywater: 5 sugar cane, 1 wood): ✔
 
 
 [icon.commerce]: https://raw.githubusercontent.com/AntumDeluge/arianne-stendhal/master/data/sprites/achievements/commerce.png

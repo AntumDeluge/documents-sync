@@ -94,9 +94,9 @@ Aid other players in N rounds of deathmatch
 
 Complete 5 rounds of deathmatch without help
 
-|        | Deluge | Seriph | Tendai | Antum | Dodle | Storks | Stormin |
-| ------ | ------ | ------ | ------ | ----- | ----- | ------ | ------- |
-| rounds |      5 |      5 |      5 |     5 |     5 |      5 |       5 |
+|                 | Deluge | Seriph | Tendai | Antum | Dodle | Storks | Stormin |
+| --------------- | ------ | ------ | ------ | ----- | ----- | ------ | ------- |
+| rounds (remain) |      5 |      5 |      5 |     5 |     5 |      5 |       5 |
 
 
 ## Deathmatch Hero
@@ -162,6 +162,10 @@ Kill 500 sharks, 500 kraken and 500 neo kraken (solo or shared)
 
 Kill 25 deer
 
+| Enemy | Deluge | Seriph | Tendai | Antum | Dodle | Storks | Stormin |
+| ----- | ------ | ------ | ------ | ----- | ----- | ------ | ------- |
+| deer  |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |      ✔ |       ✔ |
+
 
 ## Wood Cutter
 
@@ -218,9 +222,9 @@ Kill 20 foxes (solo or shared)
 
 Kill 10,000 gem mermaids (solo or shared)
 
-|                  | Deluge | Seriph | Tendai | Antum  | Dodle  | Storks | Stormin |
+| Enemy            | Deluge | Seriph | Tendai | Antum  | Dodle  | Storks | Stormin |
 | ---------------- | ------ | ------ | ------ | ------ | ------ | ------ | ------- |
-| done             |        |        |        |        |        |        |         |
+| (remain)         |        |        |        |        |        |        |         |
 | amethyst mermaid |        |     56 |     83 |      0 |      0 |      0 |       0 |
 | emerald mermaid  |        |     72 |     93 |      0 |      0 |      0 |       0 |
 | ruby mermaid     |        |     59 |     80 |      0 |      0 |      0 |       0 |
@@ -244,19 +248,20 @@ Kill 100 of each type of pachyderm (solo or shared)
 
 Kill 15 rats (solo or shared)
 
+| Deluge | Seriph | Tendai | Antum | Dodle | Storks | Stormin |
+| ------ | ------ | ------ | ----- | ----- | ------ | ------- |
+|      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |      ✔ |       ✔ |
+
 
 ## Safari
 
 Kill 30 tigers, 30 lions and 50 elephants (solo or shared)
 
-| Enemy | Deluge | Seriph | Tendai | Antum | Dodle | Storks | Stormin |
-| ----- | ------ | ------ | ------ | ----- | ----- | ------ | ------- |
-
-Stormin - Sarari
-- Safari:
-  - elephant: 45
-  - lion: 18
-  - tiger: 20
+| Enemy    | Deluge | Seriph | Tendai | Antum | Dodle | Storks | Stormin |
+| -------- | ------ | ------ | ------ | ----- | ----- | ------ | ------- |
+| elephant |      ✔ |      ✔ |      ✔ |     ✔ |    50 |     50 |      45 |
+| lion     |      ✔ |      ✔ |      ✔ |     ✔ |    30 |     30 |      18 |
+| tiger    |      ✔ |      ✔ |      ✔ |     ✔ |    30 |     30 |      20 |
 
 
 ## Silver Bullet
@@ -272,15 +277,13 @@ Kill 500 werewolves (solo or shared)
 
 Kill 500 zombies (solo or shared)
 
-| Enemy | Deluge | Seriph | Tendai | Antum | Dodle | Storks | Stormin |
-| ----- | ------ | ------ | ------ | ----- | ----- | ------ | ------- |
-
-- Stormin - Zombie Apocalypse (500 total):
-  - bloody zombie:    0
-  - headless monster: 0
-  - rotten zombie:    0
-  - zombie:           1
-            total:    0
+| Enemy            | Deluge | Seriph | Tendai | Antum | Dodle | Storks | Stormin |
+| ---------------- | ------ | ------ | ------ | ----- | ----- | ------ | ------- |
+| (remain)         |      ✔ |      ✔ |      ✔ |     ✔ |   500 |    500 |     499 |
+| bloody zombie    |        |        |        |       |     0 |      0 |       0 |
+| headless monster |        |        |        |       |     0 |      0 |       0 |
+| rotten zombie    |        |        |        |       |     0 |      0 |       0 |
+| zombie           |        |        |        |       |     0 |      0 |       1 |
 
 
 ## David vs. Goliath
@@ -583,9 +586,88 @@ Kill all creatures in a team
 ![icon.friend]
 
 
+## Still Believing
+
+Meet Santa Claus and Easter Bunny
+
+| NPC          | Deluge | Seriph | Tendai | Antum | Dodle | Storks | Stormin |
+| ------------ | ------ | ------ | ------ | ----- | ----- | ------ | ------- |
+| Easter Bunny |      ✔ |      ✔ |      ✔ |       |       |        |         |
+| Santa        |      ✔ |      ✔ |      ✔ |       |       |        |         |
+
+
+## Childrens' Friend
+
+Complete quests for all children
+
+| Quest (® repeatable)            | Deluge | Seriph | Tendai | Antum | Dodle | Storks | Stormin |
+| ------------------------------- | ------ | ------ | ------ | ----- | ----- | ------ | ------- |
+| Befriend Susi                   |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |      ✔ |       ✔ |
+| Campfire®                       |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |      ✔ |         |
+| Chocolate for Elisabeth®        |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |      ✔ |         |
+| Coded Message from Finn Farmer® |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |      ✔ |       ✔ |
+| Eggs for Marianne®              |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |      ✔ |       ✔ |
+| Find Jef's Mother®              |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |      ✔ |         |
+| Fish Soup for Hughie®           |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |      ✔ |       ✔ |
+| Ice Cream for Annie®            |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |      ✔ |       ✔ |
+| Medicine for Tad                |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |      ✔ |       ✔ |
+| Plink's Toy                     |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |      ✔ |       ✔ |
+| Toys Collector                  |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |      ✔ |       ✔ |
+
+
+## Private Detective
+
+Find all lost and hidden people
+
+| Quest (® repeatable) | Deluge | Seriph | Tendai | Antum | Dodle | Storks | Stormin |
+| -------------------- | ------ | ------ | ------ | ----- | ----- | ------ | ------- |
+| A Grandfather's Wish |      ✔ |      ✔ |      ✔ |     ✔ |       |        |         |
+| Find Ghosts          |      ✔ |      ✔ |      ✔ |     ✔ |       |        |         |
+| Find Jef's Mother    |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |      ✔ |         |
+| Find Rat Children®   |      ✔ |      ✔ |      ✔ |     ✔ |       |        |         |
+| Seven Cherubs        |      ✔ |      ✔ |      ✔ |     ✔ |       |        |         |
+
+
 # Looting
 
 ![icon.item]
+
+
+## Loot Money
+
+| Money     | Deluge | Seriph | Tendai | Antum | Dodle | Storks | Stormin |
+| --------- | ------ | ------ | ------ | ----- | ----- | ------ | ------- |
+| 100       |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |      ✔ |       ✔ |
+| 10,000    |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |      ✔ |         |
+| 100,000   |      ✔ |      ✔ |      ✔ |     ✔ |       |        |         |
+| 1,000,000 |      ✔ |      ✔ |      ✔ |       |       |        |         |
+
+
+## Cheeze Wiz
+
+| Item           | Deluge | Seriph | Tendai | Antum | Dodle | Storks | Stormin |
+| -------------- | ------ | ------ | ------ | ----- | ----- | ------ | ------- |
+| cheese (2,000) |      ✔ |      ✔ |      ✔ |     ✔ | 2,000 |  2,000 |   2,000 |
+
+
+## Dragon Slayer
+
+Loot all dragon cloaks
+
+| Item               | Deluge | Seriph | Tendai | Antum | Dodle | Storks | Stormin |
+| ------------------ | ------ | ------ | ------ | ----- | ----- | ------ | ------- |
+| black dragon cloak |      ✔ |      ✔ |      ✔ |     ✔ |       |        |         |
+| blue dragon cloak  |      ✔ |      ✔ |      ✔ |     ✔ |       |        |         |
+| bone dragon cloak  |      ✔ |      ✔ |      ✔ |     ✔ |       |        |         |
+| green dragon cloak |      ✔ |      ✔ |      ✔ |     ✔ |       |        |         |
+| red dragon cloak   |      ✔ |      ✔ |      ✔ |     ✔ |       |        |         |
+
+
+## Ham Hocks
+
+| Item        | Deluge | Seriph | Tendai | Antum | Dodle | Storks | Stormin |
+| ----------- | ------ | ------ | ------ | ----- | ----- | ------ | ------- |
+| ham (2,500) |      ✔ |      ✔ |      ✔ | 2,500 | 2,500 |  2,500 |   2,500 |
 
 
 ## Come to the Dark Side
@@ -600,31 +682,37 @@ Kill all creatures in a team
 | black shield |      ✔ |      ✔ |      ✔ |       |       |        |         |
 
 
-## Excellent Stuff
+## Feeling Blue
 
-| Item          | Deluge | Seriph | Tendai | Antum | Dodle | Storks | Stormin |
-| ------------- | ------ | ------ | ------ | ----- | ----- | ------ | ------- |
-| mainio armor  |      ✔ |        |        |       |       |        |         |
-| mainio boots  |      ✔ |      ✔ |      ✔ |       |       |        |         |
-| mainio cloak  |      ✔ |      ✔ |      ✔ |       |       |        |         |
-| mainio helmet |      ✔ |      ✔ |      ✔ |       |       |        |         |
-| mainio legs   |      ✔ |      ✔ |      ✔ |       |       |        |         |
-| mainio shield |      ✔ |      ✔ |      ✔ |       |       |        |         |
-
-
-## Magic Supplies
+Loot a complete blue equipment set
 
 | Item               | Deluge | Seriph | Tendai | Antum | Dodle | Storks | Stormin |
 | ------------------ | ------ | ------ | ------ | ----- | ----- | ------ | ------- |
-| magic plate armor  |      ✔ |      ✔ |      ✔ |       |       |        |         |
-| magic plate boots  |      ✔ |        |        |       |       |        |         |
-| magic cloak        |      ✔ |      ✔ |      ✔ |       |       |        |         |
-| magic chain helmet |      ✔ |      ✔ |      ✔ |     ✔ |       |        |         |
-| magic plate legs   |      ✔ |      ✔ |        |       |       |        |         |
-| magic plate shield |      ✔ |      ✔ |      ✔ |       |       |        |         |
+| blue armor         |      ✔ |      ✔ |      ✔ |     ✔ |       |        |         |
+| blue boots         |      ✔ |      ✔ |      ✔ |     ✔ |       |        |         |
+| blue striped cloak |      ✔ |      ✔ |      ✔ |     ✔ |       |        |         |
+| blue helmet        |      ✔ |      ✔ |      ✔ |     ✔ |       |        |         |
+| blue legs          |      ✔ |      ✔ |      ✔ |     ✔ |       |        |         |
+| blue shield        |      ✔ |      ✔ |      ✔ |     ✔ |       |        |         |
+
+
+## Chaotic Looter
+
+Loot a complete chaos equipment set
+
+| Item         | Deluge | Seriph | Tendai | Antum | Dodle | Storks | Stormin |
+| ------------ | ------ | ------ | ------ | ----- | ----- | ------ | ------- |
+| chaos armor  |      ✔ |      ✔ |      ✔ |     ✔ |       |        |         |
+| chaos boots  |      ✔ |      ✔ |      ✔ |     ✔ |       |        |         |
+| chaos cloak  |      ✔ |      ✔ |      ✔ |     ✔ |       |        |         |
+| chaos helmet |      ✔ |      ✔ |      ✔ |     ✔ |       |        |         |
+| chaos legs   |      ✔ |      ✔ |      ✔ |     ✔ |       |        |         |
+| chaos sheild |      ✔ |      ✔ |      ✔ |     ✔ |       |        |         |
 
 
 ## Nalwor's Bane
+
+Loot a complete elvish equipment set
 
 | Item          | Deluge | Seriph | Tendai | Antum | Dodle | Storks | Stormin |
 | ------------- | ------ | ------ | ------ | ----- | ----- | ------ | ------- |
@@ -636,7 +724,65 @@ Kill all creatures in a team
 | elvish shield |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |        |         |
 
 
+## Golden Boy
+
+Loot a complete golden equipment set
+
+| Item          | Deluge | Seriph | Tendai | Antum | Dodle | Storks | Stormin |
+| ------------- | ------ | ------ | ------ | ----- | ----- | ------ | ------- |
+| golden armor  |      ✔ |      ✔ |      ✔ |     ✔ |       |        |         |
+| golden boots  |      ✔ |      ✔ |      ✔ |     ✔ |       |        |         |
+| golden cloak  |      ✔ |      ✔ |      ✔ |     ✔ |       |        |         |
+| golden helmet |      ✔ |      ✔ |      ✔ |     ✔ |       |        |         |
+| golden legs   |      ✔ |      ✔ |      ✔ |     ✔ |       |        |         |
+| folden sheild |      ✔ |      ✔ |      ✔ |     ✔ |       |        |         |
+
+
+## Magic Supplies
+
+Loot a complete magic equipment set
+
+| Item               | Deluge | Seriph | Tendai | Antum | Dodle | Storks | Stormin |
+| ------------------ | ------ | ------ | ------ | ----- | ----- | ------ | ------- |
+| magic plate armor  |      ✔ |      ✔ |      ✔ |       |       |        |         |
+| magic plate boots  |      ✔ |        |        |       |       |        |         |
+| magic cloak        |      ✔ |      ✔ |      ✔ |       |       |        |         |
+| magic chain helmet |      ✔ |      ✔ |      ✔ |     ✔ |       |        |         |
+| magic plate legs   |      ✔ |      ✔ |        |       |       |        |         |
+| magic plate shield |      ✔ |      ✔ |      ✔ |       |       |        |         |
+
+
+## Excellent Stuff
+
+Loot a complete mainio equipment set
+
+| Item          | Deluge | Seriph | Tendai | Antum | Dodle | Storks | Stormin |
+| ------------- | ------ | ------ | ------ | ----- | ----- | ------ | ------- |
+| mainio armor  |      ✔ |        |        |       |       |        |         |
+| mainio boots  |      ✔ |      ✔ |      ✔ |       |       |        |         |
+| mainio cloak  |      ✔ |      ✔ |      ✔ |       |       |        |         |
+| mainio helmet |      ✔ |      ✔ |      ✔ |       |       |        |         |
+| mainio legs   |      ✔ |      ✔ |      ✔ |       |       |        |         |
+| mainio shield |      ✔ |      ✔ |      ✔ |       |       |        |         |
+
+
+## Amazon's Menace
+
+Loot a complete red equipment set
+
+| Item       | Deluge | Seriph | Tendai | Antum | Dodle | Storks | Stormin |
+| ---------- | ------ | ------ | ------ | ----- | ----- | ------ | ------- |
+| red armor  |      ✔ |      ✔ |      ✔ |     ✔ |       |        |         |
+| red boots  |      ✔ |      ✔ |      ✔ |     ✔ |       |        |         |
+| red cloak  |      ✔ |      ✔ |      ✔ |     ✔ |       |        |         |
+| red helmet |      ✔ |      ✔ |      ✔ |     ✔ |       |        |         |
+| red legs   |      ✔ |      ✔ |      ✔ |     ✔ |       |        |         |
+| red sheild |      ✔ |      ✔ |      ✔ |     ✔ |       |        |         |
+
+
 ## Royally Endowed
+
+Loot a complete royal equipment set
 
 | Item         | Deluge | Seriph | Tendai | Antum | Dodle | Storks | Stormin |
 | ------------ | ------ | ------ | ------ | ----- | ----- | ------ | ------- |
@@ -648,18 +794,32 @@ Kill all creatures in a team
 | royal shield |      ✔ |      ✔ |      ✔ |       |       |        |         |
 
 
-## Cheeze Wiz
+## Shadow Dweller
 
-| Item           | Deluge | Seriph | Tendai | Antum | Dodle | Storks | Stormin |
-| -------------- | ------ | ------ | ------ | ----- | ----- | ------ | ------- |
-| cheese (2,000) |      ✔ |      ✔ |      ✔ |     ✔ | 2,000 |  2,000 |   2,000 |
+Loot a complete shadow equipment set
+
+| Item          | Deluge | Seriph | Tendai | Antum | Dodle | Storks | Stormin |
+| ------------- | ------ | ------ | ------ | ----- | ----- | ------ | ------- |
+| shadow armor  |      ✔ |      ✔ |      ✔ |     ✔ |       |        |         |
+| shadow boots  |      ✔ |      ✔ |      ✔ |     ✔ |       |        |         |
+| shadow cloak  |      ✔ |      ✔ |      ✔ |     ✔ |       |        |         |
+| shadow helmet |      ✔ |      ✔ |      ✔ |     ✔ |       |        |         |
+| shadow legs   |      ✔ |      ✔ |      ✔ |     ✔ |       |        |         |
+| shadow sheild |      ✔ |      ✔ |      ✔ |     ✔ |       |        |         |
 
 
-## Ham Hocks
+# A Bit Xeno?
+
+Loot a complete xeno equipment set
 
 | Item        | Deluge | Seriph | Tendai | Antum | Dodle | Storks | Stormin |
 | ----------- | ------ | ------ | ------ | ----- | ----- | ------ | ------- |
-| ham (2,500) |      ✔ |      ✔ |      ✔ | 2,500 | 2,500 |  2,500 |   2,500 |
+| xeno armor  |      ✔ |      ✔ |      ✔ |       |       |        |         |
+| xeno boots  |      ✔ |      ✔ |      ✔ |       |       |        |         |
+| xeno cloak  |      ✔ |      ✔ |      ✔ |       |       |        |         |
+| xeno helmet |      ✔ |      ✔ |      ✔ |       |       |        |         |
+| xeno legs   |      ✔ |      ✔ |      ✔ |       |       |        |         |
+| xeno sheild |      ✔ |      ✔ |      ✔ |       |       |        |         |
 
 
 # Obtain
@@ -670,12 +830,71 @@ Kill all creatures in a team
 
 Harvest or loot 1,000 apples
 
-|           | Deluge | Seriph | Tendai | Antum | Dodle | Storks | Stormin |
+| Apples    | Deluge | Seriph | Tendai | Antum | Dodle | Storks | Stormin |
 | --------- | ------ | ------ | ------ | ----- | ----- | ------ | ------- |
-| done      |      ✔ |        |        |       |       |        |         |
+| (remain)  |      ✔ |    779 |    731 | 1,000 | 1,000 |  1,000 |     987 |
 | harvested |        |     45 |     90 |     0 |     0 |      0 |      13 |
 | looted    |        |    176 |    224 |     0 |     0 |      0 |       0 |
-| total     |        |    221 |    314 |     0 |     0 |      0 |      13 |
+
+
+## Fisherman
+
+Catch 15 of each type of fish
+
+| Fish         | Deluge | Seriph | Tendai | Antum | Dodle | Storks | Stormin |
+| ------------ | ------ | ------ | ------ | ----- | ----- | ------ | ------- |
+| char         |      ✔ |      ✔ |      ✔ |     ✔ |    15 |     15 |      15 |
+| clownfish    |      ✔ |      ✔ |      ✔ |     ✔ |    15 |     15 |      15 |
+| cod          |      ✔ |      ✔ |      ✔ |     ✔ |    15 |     15 |      13 |
+| mackerel     |      ✔ |      ✔ |      ✔ |     ✔ |    15 |     15 |      15 |
+| perch        |      ✔ |      ✔ |      ✔ |     ✔ |    15 |     15 |      15 |
+| red lionfish |      ✔ |      ✔ |      ✔ |     ✔ |    15 |     15 |      15 |
+| roach        |      ✔ |      ✔ |      ✔ |     ✔ |    15 |     15 |       ✔ |
+| surgeonfish  |      ✔ |      ✔ |      ✔ |     ✔ |    15 |     15 |      15 |
+| trout        |      ✔ |      ✔ |      ✔ |     ✔ |    15 |     15 |       ✔ |
+
+
+## Green Thumb
+
+Harvest 20 of each type of growable flower
+
+| Flower       | Deluge | Seriph | Tendai | Antum | Dodle | Storks | Stormin |
+| ------------ | ------ | ------ | ------ | ----- | ----- | ------ | ------- |
+| daisies      |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |      ✔ |       ✔ |
+| lilia        |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |      ✔ |       ✔ |
+| pansy        |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |      ✔ |       ✔ |
+| zantedeschia |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |      ✔ |       ✔ |
+
+
+## Fruit Salad
+
+Harvest 3 of all fruit that grow in Faiumoni
+
+| Fruit       | Deluge | Seriph | Tendai | Antum | Dodle | Storks | Stormin |
+| ----------- | ------ | ------ | ------ | ----- | ----- | ------ | ------- |
+| apple       |      3 |      3 |      3 |     ✔ |     3 |      3 |       3 |
+| banana      |      3 |      3 |      3 |     ✔ |     ✔ |      ✔ |       3 |
+| cherry      |      3 |      3 |      3 |     ✔ |     3 |      3 |       3 |
+| coconut     |      3 |      3 |      3 |     ✔ |     3 |      3 |       3 |
+| grapes      |      3 |      3 |      3 |     ✔ |     3 |      3 |       3 |
+| olive       |      3 |      3 |      3 |     ✔ |     ✔ |      ✔ |       3 |
+| pear        |      3 |      3 |      3 |     ✔ |     3 |      3 |       3 |
+| pineapple   |      3 |      3 |      3 |     ✔ |     3 |      3 |       3 |
+| pomegranate |      3 |      3 |      3 |     ✔ |     3 |      3 |       3 |
+| tomato      |      3 |      3 |      3 |     ✔ |     3 |      3 |       3 |
+| watermelon  |      3 |      3 |      3 |     ✔ |     3 |      3 |       3 |
+
+
+## Herbal Practitioner
+
+Harvest 20 of each type of herb found growing in Faiumoni
+
+| Herb       | Deluge | Seriph | Tendai | Antum | Dodle | Storks | Stormin |
+| ---------- | ------ | ------ | ------ | ----- | ----- | ------ | ------- |
+| arandula   |      ✔ |      ✔ |      ✔ |     ✔ |     8 |     18 |       ✔ |
+| kekik      |      ✔ |      ✔ |      ✔ |     ✔ |    20 |     14 |      16 |
+| mandragora |      ✔ |      ✔ |      ✔ |     ✔ |    20 |     18 |      17 |
+| sclaria    |      ✔ |      ✔ |      ✔ |     ✔ |    20 |     14 |      14 |
 
 
 ## Farmer
@@ -699,79 +918,90 @@ Harvest 3 of all vegetables that grow in Faiumoni
 | tomato      |      ✔ |      ✔ |      ✔ |     ✔ |     3 |      3 |       ✔ |
 
 
-## Fisherman
-
-Catch 15 of each type of fish
-
-| Fish         | Deluge | Seriph | Tendai | Antum | Dodle | Storks | Stormin |
-| ------------ | ------ | ------ | ------ | ----- | ----- | ------ | ------- |
-| char         |      ✔ |      ✔ |      ✔ |     ✔ |    15 |     15 |      15 |
-| clownfish    |      ✔ |      ✔ |      ✔ |     ✔ |    15 |     15 |      15 |
-| cod          |      ✔ |      ✔ |      ✔ |     ✔ |    15 |     15 |      13 |
-| mackerel     |      ✔ |      ✔ |      ✔ |     ✔ |    15 |     15 |      15 |
-| perch        |      ✔ |      ✔ |      ✔ |     ✔ |    15 |     15 |      15 |
-| red lionfish |      ✔ |      ✔ |      ✔ |     ✔ |    15 |     15 |      15 |
-| roach        |      ✔ |      ✔ |      ✔ |     ✔ |    15 |     15 |       ✔ |
-| surgeonfish  |      ✔ |      ✔ |      ✔ |     ✔ |    15 |     15 |      15 |
-| trout        |      ✔ |      ✔ |      ✔ |     ✔ |    15 |     15 |       ✔ |
-
-
-## Fruit Salad
-
-Harvest 3 of all fruit that grow in Faiumoni
-
-| Fruit       | Deluge | Seriph | Tendai | Antum | Dodle | Storks | Stormin |
-| ----------- | ------ | ------ | ------ | ----- | ----- | ------ | ------- |
-| apple       |      3 |      3 |      3 |     ✔ |     3 |      3 |       3 |
-| banana      |      3 |      3 |      3 |     ✔ |     ✔ |      ✔ |       3 |
-| cherry      |      3 |      3 |      3 |     ✔ |     3 |      3 |       3 |
-| coconut     |      3 |      3 |      3 |     ✔ |     3 |      3 |       3 |
-| grapes      |      3 |      3 |      3 |     ✔ |     3 |      3 |       3 |
-| olive       |      3 |      3 |      3 |     ✔ |     ✔ |      ✔ |       3 |
-| pear        |      3 |      3 |      3 |     ✔ |     3 |      3 |       3 |
-| pineapple   |      3 |      3 |      3 |     ✔ |     3 |      3 |       3 |
-| pomegranate |      3 |      3 |      3 |     ✔ |     3 |      3 |       3 |
-| tomato      |      3 |      3 |      3 |     ✔ |     3 |      3 |       3 |
-| watermelon  |      3 |      3 |      3 |     ✔ |     3 |      3 |       3 |
-
-
-## Green Thumb
-
-Harvest 20 of each type of growable flower
-
-| Flower       | Deluge | Seriph | Tendai | Antum | Dodle | Storks | Stormin |
-| ------------ | ------ | ------ | ------ | ----- | ----- | ------ | ------- |
-| daisies      |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |      ✔ |       ✔ |
-| lilia        |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |      ✔ |       ✔ |
-| pansy        |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |      ✔ |       ✔ |
-| zantedeschia |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |      ✔ |       ✔ |
-
-
-## Herbal Practitioner
-
-Harvest 20 of each type of herb found growing in Faiumoni
-
-| Herb       | Deluge | Seriph | Tendai | Antum | Dodle | Storks | Stormin |
-| ---------- | ------ | ------ | ------ | ----- | ----- | ------ | ------- |
-| arandula   |      ✔ |      ✔ |      ✔ |     ✔ |     8 |     18 |       ✔ |
-| kekik      |      ✔ |      ✔ |      ✔ |     ✔ |    20 |     14 |      16 |
-| mandragora |      ✔ |      ✔ |      ✔ |     ✔ |    20 |     18 |      17 |
-| sclaria    |      ✔ |      ✔ |      ✔ |     ✔ |    20 |     14 |      14 |
-
-
 # Production
 
 ![icon.production]
+
+
+## Thirsty Worker
+
+Order all drink types available from Faiumoni's cooks
+
+| Item                    | Deluge | Seriph | Tendai | Antum | Dodle | Storks | Stormin |
+| ----------------------- | ------ | ------ | ------ | ----- | ----- | ------ | ------- |
+| vsop koboldish torcibud |      ✔ |      ✔ |      ✔ |     ✔ |       |        |         |
+| fierywater              |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |      ✔ |       ✔ |
+| fish soup               |      ✔ |      ✔ |      ✔ |     ✔ |       |        |         |
+| mega potion             |      ✔ |      ✔ |      ✔ |     ✔ |       |        |         |
+| pina colada             |      ✔ |      ✔ |      ✔ |     ✔ |       |        |         |
+| soup                    |      ✔ |      ✔ |      ✔ |     ✔ |       |        |       ✔ |
+| tea                     |      ✔ |      ✔ |      ✔ |     ✔ |       |        |         |
+
+† random amount
+
+- vsop koboldish torcibud (Wrviliza): ... arandula†, artichoke†, eared bottle†, fierywater†, kekik†, mandragora†, sclaria†, slim bottle†
+- fierywater (Uncle Dag): ............... 5 sugar cane, 1 wood
+- fish soup (Florence Boullabaisse): .... 1 onion, 1 garlic, 1 leek, 1 tomato, 1 roach, 1 perch, 1 surgeonfish, 1 cod, 1 clownfish, 1 trout, 1 mackerel, 1 char
+- mega potion (Valo): ................... 1 giant heart, 20 money
+- pina colada (Pedro): .................. 1 coconut, 1 pineapple
+- soup (Old Mother Helena): ............. 1 carrot, 1 salad, 1 onion, 1 cauliflower, 1 broccoli, 1 leek, 1 spinach, 1 courgette, 1 collard
+- tea (Granny Graham): .................. 1 milk, 1 honey
+
+
+## Gourmet
+
+Order all food types available from Faiumoni's cooks
+
+| Item           | Deluge | Seriph | Tendai | Antum | Dodle | Storks | Stormin |
+| -------------- | ------ | ------ | ------ | ----- | ----- | ------ | ------- |
+| apple pie      |      ✔ |      ✔ |      ✔ |       |       |        |         |
+| bread          |      ✔ |      ✔ |      ✔ |       |       |        |         |
+| cheese sausage |      ✔ |      ✔ |      ✔ |       |       |        |         |
+| cherry pie     |      ✔ |      ✔ |      ✔ |       |       |        |         |
+| crepes suzette |      ✔ |      ✔ |      ✔ |       |       |        |         |
+| fish pie       |      ✔ |      ✔ |      ✔ |       |       |        |         |
+| grilled steak  |      ✔ |      ✔ |      ✔ |       |       |        |         |
+| pie            |      ✔ |      ✔ |      ✔ |       |       |        |         |
+| pizza          |      ✔ |      ✔ |      ✔ |       |       |        |         |
+| sandwich       |      ✔ |      ✔ |      ✔ |       |       |        |         |
+| sausage        |      ✔ |      ✔ |      ✔ |       |       |        |         |
+| smoked cod     |      ✔ |      ✔ |      ✔ |       |       |        |         |
+| smoked ham     |      ✔ |      ✔ |      ✔ |       |       |        |         |
+| smoked meat    |      ✔ |      ✔ |      ✔ |       |       |        |         |
+| smoked trout   |      ✔ |      ✔ |      ✔ |       |       |        |         |
+
+- apple pie (Martha): ................ 2 flour, 1 milk, 1 honey, 1 apple, 1 egg
+- bread (Erna): ...................... 2 flour
+- cheese sausage (Blacksheep Joe): ... 1 cheese, 1 chicken, 1 bat entrails, 1 vampirette entrails
+- cherry pie (Gertha): ............... 2 flour, 2 cherry, 1 milk, 1 honey, 1 egg
+- crepes suzette (Gaston): ........... 1 flour, 1 fierywater, 1 milk, 1 chocolate bar, 1 sugar, 1 butter, 1 egg
+- fish pie (Linzo): .................. 1 flour, 1 mackerel, 1 leek, 2 cod
+- grilled steak (Haunchy Meatoch): ... 25 coal
+- pie (Arlindo): ..................... 2 button mushroom, 2 meat, 2 flour, 1 carrot
+- pizza (Kroip): ..................... 2 button mushroom, 1 cheese, 1 ham, 1 porcino, 1 tomato, 2 flour
+- sandwich (Leander): ................ 2 cheese, 1 bread, 1 ham
+- sausage (Blacksheep Bob): .......... 1 meat, 1 bat entrails, 1 vampirette entrails
+- smoked cod (Olmo): ................. 1 wood, 1 cod, 2 arandula
+- smoked ham (Olmo): ................. 1 wood, 1 ham, 1 kekik
+- smoked meat (Olmo): ................ 2 wood, 1 meat, 1 arandula
+- smoked trout (Olmo): ............... 1 wood, 1 trout, 1 sclaria
 
 
 ## Alchemist
 
 Produce 5 of each kind of precious metal and resource
 
+| Item        | Deluge | Seriph | Tendai | Antum | Dodle | Storks | Stormin |
+| ----------- | ------ | ------ | ------ | ----- | ----- | ------ | ------- |
+| flour       |      ✔ |      ✔ |      ✔ |     ✔ |     5 |      5 |       5 |
+| gold bar    |      ✔ |      ✔ |      ✔ |     ✔ |     5 |      5 |       5 |
+| iron        |      ✔ |      ✔ |      ✔ |     ✔ |     5 |      5 |       5 |
+| mithril bar |      ✔ |      ✔ |      ✔ |     ✔ |     5 |      5 |       5 |
 
-## Gourmet
-
-Order all food types available from Faiumoni's cooks
+- flour (Jenny): .............. 5 grain
+- gold bar (Joshua): .......... 2 wood, 1 gold nugget
+- iron (Xoderos): ............. 1 wood, 1 iron ore
+- mithril bar (Pedinghaus): ... 20 wood, 1 mithril nugget
 
 
 ## Jenny's Assistant
@@ -795,51 +1025,60 @@ Sow 1,000 of each type of sowable flower seed
 | zantedeschia |  1,000 |  1,000 |  1,000 | 1,000 | 1,000 |  1,000 |   1,000 |
 
 
-## Thirsty Worker
+# Quest
 
-Order all drink types available from Faiumoni's cooks
-
-
-------------------
-Dodle - production
-- Alchemist (produce 5 of reach resource):
-- Gourmet (order all foods):
-- Thirsty Worker (order all drinks):
-  - Granny Graham (tea: 1 milk, 1 honey):
-  - Uncle Dag (fierywater: 5 sugar cane, 1 wood): ✔
-  - ??? (pina colada: 1 pineapple, 1 coconut):
+![icon.quest]
 
 
--------------------
-Storks - production
-- Alchemist (produce 5 of reach resource):
-- Gourmet (order all foods):
-- Thirsty Worker (order all drinks):
-  - Granny Graham (tea: 1 milk, 1 honey):
-  - Uncle Dag (fierywater: 5 sugar cane, 1 wood): ✔
+## Helper of Ados City Dwellers
+
+Complete all quests in Ados City
+
+| Quest (® repeatable)                 | Deluge | Seriph | Tendai | Antum | Dodle | Storks | Stormin |
+| ------------------------------------ | ------ | ------ | ------ | ----- | ----- | ------ | ------- |
+| Coal for Haunchy®                    |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |      ✔ |         |
+| Coded Message from Finn Farmer®      |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |      ✔ |       ✔ |
+| Daily Item Quest®                    |      ✔ |      ✔ |      ✔ |     ✔ |       |        |       ✔ |
+| Easter Gifts for Children (seasonal) |      ✔ |      ✔ |      ✔ |       |       |        |         |
+| Emotion Crystals                     |      ✔ |      ✔ |      ✔ |     ✔ |       |        |         |
+| Find Ghosts                          |      ✔ |      ✔ |      ✔ |     ✔ |       |        |         |
+| Fisherman's License Quiz             |      ✔ |      ✔ |      ✔ |     ✔ |       |        |       ✔ |
+| Fisherman's License Quiz 2           |      ✔ |      ✔ |      ✔ |     ✔ |       |        |       ✔ |
+| Fruits for Coralia®                  |      ✔ |      ✔ |      ✔ |       |       |        |       ✔ |
+| Kill Monks®                          |      ✔ |      ✔ |      ✔ |     ✔ |       |        |         |
+| Look Up Quote                        |      ✔ |      ✔ |      ✔ |     ✔ |       |        |       ✔ |
+| Meet Marie-Henri                     |      ✔ |      ✔ |      ✔ |     ✔ |       |        |       ✔ |
+| Mithril Cloak                        |      ✔ |      ✔ |      ✔ |       |       |        |         |
+| The Pied Piper®                      |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |      ✔ |         |
+| Toys Collector                       |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |      ✔ |       ✔ |
 
 
---------------------
-Stormin - production
-- Alchemist (produce 5 of each resource):
-  - Pedinghaus (mithril bar: 1 mithril nugget, 20 wood):
-- Gourmet (order all foods):
-  - Arlindo (pie: 2 button mushroom, 2 meat, 2 flour, 1 carrot):
-  - Blacksheep Bob:
-  - Blacksheep Harry:
-  - Blacksheep Joe:
-  - Erna (bread: 2 flour):
-  - Gertha (cherry pie: 2 flour, 2 cherry, 1 milk, 1 honey, 1 egg):
-  - Leander (sandwich: 2 cheese, 1 bread, 1 ham):
-  - Linzo (fish pie):
-  - Martha (apple pie: 2 flour, 1 milk, 1 honey, 1 apple, 1 egg):
-  - Old Mother Helena (soup): ✔
-  - Olmo:
-- Jenny's Assistant (produce 1,000 flour):
-  - flour: 1,000
-- Thirsty Worker (order all drinks):
-  - Granny Graham (tea: 1 milk, 1 honey):
-  - Uncle Dag (fierywater: 5 sugar cane, 1 wood): ✔
+## Aide to Semos Folk
+
+Complete all quests in Semos City
+
+| Quest (® repeatable)           | Deluge | Seriph | Tendai | Antum | Dodle | Storks | Stormin |
+| ------------------------------ | ------ | ------ | ------ | ----- | ----- | ------ | ------- |
+| Armor for Dagobert             |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |      ✔ |       ✔ |
+| Beer for Hayunn                |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |      ✔ |       ✔ |
+| Bows for Ouchit                |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |      ✔ |         |
+| Clean the Storage Space        |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |      ✔ |       ✔ |
+| Daily Monster Quest®           |      ✔ |      ✔ |      ✔ |     ✔ |       |        |         |
+| Goodies for Rudolph (seasonal) |      ✔ |      ✔ |      ✔ |     ✔ |       |        |         |
+| Hat for Monogenes              |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |      ✔ |       ✔ |
+| Herbs for Carmen               |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |        |       ✔ |
+| Hungry Joshua                  |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |      ✔ |       ✔ |
+| Learn About Orbs               |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |      ✔ |       ✔ |
+| Look for a Book for Ceryl      |      ✔ |      ✔ |      ✔ |     ✔ |       |        |         |
+| Medicine for Tad               |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |      ✔ |       ✔ |
+| Meet Hackim Easso              |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |      ✔ |       ✔ |
+| Meet Hayunn Naratha            |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |      ✔ |       ✔ |
+| Meet Io                        |      ✔ |      ✔ |      ✔ |     ✔ |       |        |         |
+| Meet Ketteh Wehoh              |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |        |         |
+| Meet Monogenes                 |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |      ✔ |       ✔ |
+| News from Hackim               |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |      ✔ |       ✔ |
+| Pizza Delivery®                |      ✔ |      ✔ |      ✔ |     ✔ |       |        |       ✔ |
+| Sheep Growing for Nishiya      |      ✔ |      ✔ |      ✔ |     ✔ |       |        |       ✔ |
 
 
 [icon.commerce]: https://raw.githubusercontent.com/AntumDeluge/arianne-stendhal/master/data/sprites/achievements/commerce.png

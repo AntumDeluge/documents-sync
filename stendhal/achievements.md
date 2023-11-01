@@ -201,10 +201,10 @@ Kill 100 of each type of fowl (solo or shared)
 
 | Enemy      | Deluge | Seriph | Tendai | Antum | Dodle | Storks | Stormin |
 | ---------- | ------ | ------ | ------ | ----- | ----- | ------ | ------- |
-| chick      |      ✔ |      ✔ |      ✔ |     ✔ |   100 |    100 |      80 |
-| chicken    |      ✔ |      ✔ |      ✔ |     ✔ |   100 |    100 |      69 |
+| chick      |      ✔ |      ✔ |      ✔ |     ✔ |    97 |     99 |      80 |
+| chicken    |      ✔ |      ✔ |      ✔ |     ✔ |    98 |     99 |      69 |
 | dodo       |      ✔ |      ✔ |      ✔ |     ✔ |   100 |    100 |     100 |
-| mother hen |      ✔ |      ✔ |      ✔ |     ✔ |   100 |    100 |      92 |
+| mother hen |      ✔ |      ✔ |      ✔ |     ✔ |    98 |     99 |      92 |
 | penguin    |      ✔ |      ✔ |      ✔ |     ✔ |   100 |    100 |     100 |
 | pigeon     |      ✔ |      ✔ |      ✔ |     ✔ |   100 |    100 |      85 |
 
@@ -328,22 +328,44 @@ Kill all creatures solo
 
 - bat: ✔
 - boar: ✔
+- bull: ✔
+- chick: ✔
+- chicken: ✔
+- cow: ✔
 - crab: ✔
+- deer: ✔
+- ghost: ✔
+- goat: ✔
+- grass snake: ✔
+- horse: ✔
 - lion: ✔
 - monkey: ✔
+- mother hen: ✔
 - mouse: ✔
+- piglet: ✔
+- ram: ✔
 - rat: ✔
+- tiny skelly: ✔
+- white horse: ✔
 
 
 ### Legend - Storks
 
 - bat: ✔
+- bear: ✔
+- black bear: ✔
 - boar: ✔
+- cow: ✔
 - crab: ✔
+- deer: ✔
 - elephant: ✔
+- grass snake: ✔
 - lion: ✔
 - monkey: ✔
+- piglet: ✔
+- ram: ✔
 - rat: ✔
+- snake: ✔
 - turtle: ✔
 
 
@@ -416,58 +438,92 @@ Kill all creatures in a team
 ### Team Player - Dodle
 
 - bat: ✔
+- bear: ✔
+- black bear: ✔
 - black slime: ✔
 - boar: ✔
 - brown slime: ✔
+- bull: ✔
 - cannibal: ✔
 - cannibal warrior: ✔
 - cannibal woman: ✔
+- chick: ✔
+- chicken: ✔
+- cow: ✔
 - crab: ✔
+- deer: ✔
 - elder cannibal: ✔
 - elephant: ✔
+- fox: ✔
+- goat: ✔
+- grass snake: ✔
 - green slime: ✔
+- horse: ✔
 - lion: ✔
 - monk: ✔
 - monkey: ✔
+- mother hen: ✔
+- mouse: ✔
 - mummy: ✔
 - orc: ✔
 - orc warrior: ✔
+- piglet: ✔
+- ram: ✔
 - rat: ✔
 - snake: ✔
 - stone golem: ✔
 - tiger: ✔
 - turtle: ✔
+- white horse: ✔
+- wolf: ✔
 - wooden golem: ✔
 
 
 ### Team Player - Storks
 
 - bat: ✔
+- bear: ✔
+- black bear: ✔
 - black slime: ✔
 - boar: ✔
 - brown slime: ✔
+- bull: ✔
 - cannibal: ✔
 - cannibal warrior: ✔
 - cannibal woman: ✔
+- chick: ✔
+- chicken: ✔
+- cow: ✔
 - crab: ✔
+- deer: ✔
 - elder cannibal: ✔
 - elephant: ✔
+- fox: ✔
+- goat: ✔
+- grass snake: ✔
 - green slime: ✔
+- horse: ✔
 - lion: ✔
 - monk: ✔
 - monkey: ✔
+- mother hen: ✔
+- mouse: ✔
 - mummy: ✔
 - orc: ✔
 - orc warrior: ✔
+- piglet: ✔
+- ram: ✔
 - rat: ✔
 - snake: ✔
 - stone golem: ✔
 - tiger: ✔
 - turtle: ✔
+- white horse: ✔
+- wolf: ✔
 - wooden golem: ✔
 
 
-### Team Player - Stomin
+### Team Player - Stormin
 
 - babybear: ✔
 - bear: ✔
@@ -647,7 +703,7 @@ Find all lost and hidden people
 
 | Item           | Deluge | Seriph | Tendai | Antum | Dodle | Storks | Stormin |
 | -------------- | ------ | ------ | ------ | ----- | ----- | ------ | ------- |
-| cheese (2,000) |      ✔ |      ✔ |      ✔ |     ✔ | 2,000 |  2,000 |   2,000 |
+| cheese (2,000) |      ✔ |      ✔ |      ✔ |     ✔ | 2,000 |  1,999 |   2,000 |
 
 
 ## Dragon Slayer
@@ -667,7 +723,7 @@ Loot all dragon cloaks
 
 | Item        | Deluge | Seriph | Tendai | Antum | Dodle | Storks | Stormin |
 | ----------- | ------ | ------ | ------ | ----- | ----- | ------ | ------- |
-| ham (2,500) |      ✔ |      ✔ |      ✔ | 2,500 | 2,500 |  2,500 |   2,500 |
+| ham (2,500) |      ✔ |      ✔ |      ✔ | 2,500 | 2,500 |  2,496 |   2,500 |
 
 
 ## Come to the Dark Side
@@ -832,8 +888,8 @@ Harvest or loot 1,000 apples
 
 | Apples    | Deluge | Seriph | Tendai | Antum | Dodle | Storks | Stormin |
 | --------- | ------ | ------ | ------ | ----- | ----- | ------ | ------- |
-| (remain)  |      ✔ |    779 |    731 | 1,000 | 1,000 |  1,000 |     987 |
-| harvested |        |     45 |     90 |     0 |     0 |      0 |      13 |
+| (remain)  |      ✔ |    779 |    731 | 1,000 |   995 |    995 |     987 |
+| harvested |        |     45 |     90 |     0 |     5 |      5 |      13 |
 | looted    |        |    176 |    224 |     0 |     0 |      0 |       0 |
 
 
@@ -872,13 +928,13 @@ Harvest 3 of all fruit that grow in Faiumoni
 
 | Fruit       | Deluge | Seriph | Tendai | Antum | Dodle | Storks | Stormin |
 | ----------- | ------ | ------ | ------ | ----- | ----- | ------ | ------- |
-| apple       |      3 |      3 |      3 |     ✔ |     3 |      3 |       3 |
+| apple       |      3 |      3 |      3 |     ✔ |     ✔ |      ✔ |       3 |
 | banana      |      3 |      3 |      3 |     ✔ |     ✔ |      ✔ |       3 |
 | cherry      |      3 |      3 |      3 |     ✔ |     3 |      3 |       3 |
 | coconut     |      3 |      3 |      3 |     ✔ |     3 |      3 |       3 |
-| grapes      |      3 |      3 |      3 |     ✔ |     3 |      3 |       3 |
+| grapes      |      3 |      3 |      3 |     ✔ |     ✔ |      3 |       3 |
 | olive       |      3 |      3 |      3 |     ✔ |     ✔ |      ✔ |       3 |
-| pear        |      3 |      3 |      3 |     ✔ |     3 |      3 |       3 |
+| pear        |      3 |      3 |      3 |     ✔ |     ✔ |      3 |       3 |
 | pineapple   |      3 |      3 |      3 |     ✔ |     3 |      3 |       3 |
 | pomegranate |      3 |      3 |      3 |     ✔ |     3 |      3 |       3 |
 | tomato      |      3 |      3 |      3 |     ✔ |     3 |      3 |       3 |
@@ -891,8 +947,8 @@ Harvest 20 of each type of herb found growing in Faiumoni
 
 | Herb       | Deluge | Seriph | Tendai | Antum | Dodle | Storks | Stormin |
 | ---------- | ------ | ------ | ------ | ----- | ----- | ------ | ------- |
-| arandula   |      ✔ |      ✔ |      ✔ |     ✔ |     8 |     18 |       ✔ |
-| kekik      |      ✔ |      ✔ |      ✔ |     ✔ |    20 |     14 |      16 |
+| arandula   |      ✔ |      ✔ |      ✔ |     ✔ |     7 |     18 |       ✔ |
+| kekik      |      ✔ |      ✔ |      ✔ |     ✔ |    16 |     14 |      16 |
 | mandragora |      ✔ |      ✔ |      ✔ |     ✔ |    20 |     18 |      17 |
 | sclaria    |      ✔ |      ✔ |      ✔ |     ✔ |    20 |     14 |      14 |
 
@@ -903,17 +959,17 @@ Harvest 3 of all vegetables that grow in Faiumoni
 
 | Vegetable   | Deluge | Seriph | Tendai | Antum | Dodle | Storks | Stormin |
 | ----------- | ------ | ------ | ------ | ----- | ----- | ------ | ------- |
-| artichoke   |      ✔ |      ✔ |      ✔ |     ✔ |     3 |      3 |       ✔ |
+| artichoke   |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |      ✔ |       ✔ |
 | broccoli    |      ✔ |      ✔ |      ✔ |     ✔ |     3 |      3 |       ✔ |
-| carrot      |      ✔ |      ✔ |      ✔ |     ✔ |     3 |      3 |       ✔ |
+| carrot      |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |      ✔ |       ✔ |
 | cauliflower |      ✔ |      ✔ |      ✔ |     ✔ |     3 |      3 |       ✔ |
 | collard     |      ✔ |      ✔ |      ✔ |     ✔ |     3 |      3 |       ✔ |
-| corn        |      ✔ |      ✔ |      ✔ |     ✔ |     3 |      3 |       ✔ |
+| corn        |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |      ✔ |       ✔ |
 | courgette   |      ✔ |      ✔ |      ✔ |     ✔ |     3 |      3 |       ✔ |
 | garlic      |      ✔ |      ✔ |      ✔ |     ✔ |     3 |      3 |       ✔ |
 | leek        |      ✔ |      ✔ |      ✔ |     ✔ |     3 |      3 |       ✔ |
 | onion       |      ✔ |      ✔ |      ✔ |     ✔ |     3 |      ✔ |       ✔ |
-| salad       |      ✔ |      ✔ |      ✔ |     ✔ |     3 |      3 |       ✔ |
+| salad       |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |      ✔ |       ✔ |
 | spinach     |      ✔ |      ✔ |      ✔ |     ✔ |     3 |      3 |       ✔ |
 | tomato      |      ✔ |      ✔ |      ✔ |     ✔ |     3 |      3 |       ✔ |
 

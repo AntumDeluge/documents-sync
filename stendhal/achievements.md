@@ -215,7 +215,7 @@ Kill 20 foxes (solo or shared)
 
 | Enemy | Deluge | Seriph | Tendai | Antum | Dodle | Storks | Stormin |
 | ----- | ------ | ------ | ------ | ----- | ----- | ------ | ------- |
-| fox   |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |      ✔ |      14 |
+| fox   |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |      ✔ |      13 |
 
 
 ## Serenade the Siren
@@ -239,7 +239,7 @@ Kill 100 of each type of pachyderm (solo or shared)
 | Enemy          | Deluge | Seriph | Tendai | Antum | Dodle | Storks | Stormin |
 | -------------- | ------ | ------ | ------ | ----- | ----- | ------ | ------- |
 | bull elephant  |      ✔ |      ✔ |      ✔ |   100 |   100 |    100 |     100 |
-| elephant       |      ✔ |      ✔ |      ✔ |   100 |   100 |    100 |      95 |
+| elephant       |      ✔ |      ✔ |      ✔ |   100 |   100 |    100 |      87 |
 | musth elephant |      ✔ |      ✔ |      ✔ |   100 |   100 |    100 |     100 |
 | woolly mammoth |      ✔ |      ✔ |      ✔ |   100 |   100 |    100 |     100 |
 
@@ -259,9 +259,9 @@ Kill 30 tigers, 30 lions and 50 elephants (solo or shared)
 
 | Enemy    | Deluge | Seriph | Tendai | Antum | Dodle | Storks | Stormin |
 | -------- | ------ | ------ | ------ | ----- | ----- | ------ | ------- |
-| elephant |      ✔ |      ✔ |      ✔ |     ✔ |    50 |     50 |      45 |
-| lion     |      ✔ |      ✔ |      ✔ |     ✔ |    30 |     30 |      18 |
-| tiger    |      ✔ |      ✔ |      ✔ |     ✔ |    30 |     30 |      20 |
+| elephant |      ✔ |      ✔ |      ✔ |     ✔ |    50 |     50 |      37 |
+| lion     |      ✔ |      ✔ |      ✔ |     ✔ |    30 |     30 |      14 |
+| tiger    |      ✔ |      ✔ |      ✔ |     ✔ |    30 |     30 |      13 |
 
 
 ## Silver Bullet
@@ -358,7 +358,9 @@ Kill all creatures solo
 - cow: ✔
 - crab: ✔
 - deer: ✔
+- elf: ✔
 - elephant: ✔
+- gnome: ✔
 - grass snake: ✔
 - lion: ✔
 - monkey: ✔
@@ -388,6 +390,7 @@ Kill all creatures solo
 - cyclops: ✔
 - deer: ✔
 - elephant: ✔
+- elf: ✔
 - fox: ✔
 - gargoyle: ✔
 - ghost: ✔
@@ -888,8 +891,8 @@ Harvest or loot 1,000 apples
 
 | Apples    | Deluge | Seriph | Tendai | Antum | Dodle | Storks | Stormin |
 | --------- | ------ | ------ | ------ | ----- | ----- | ------ | ------- |
-| (remain)  |      ✔ |    779 |    731 | 1,000 |   995 |    995 |     987 |
-| harvested |        |     45 |     90 |     0 |     5 |      5 |      13 |
+| (remain)  |      ✔ |    779 |    731 | 1,000 |   995 |    995 |     982 |
+| harvested |        |     45 |     90 |     0 |     5 |      5 |      18 |
 | looted    |        |    176 |    224 |     0 |     0 |      0 |       0 |
 
 
@@ -901,7 +904,7 @@ Catch 15 of each type of fish
 | ------------ | ------ | ------ | ------ | ----- | ----- | ------ | ------- |
 | char         |      ✔ |      ✔ |      ✔ |     ✔ |    15 |     15 |      15 |
 | clownfish    |      ✔ |      ✔ |      ✔ |     ✔ |    15 |     15 |      15 |
-| cod          |      ✔ |      ✔ |      ✔ |     ✔ |    15 |     15 |      13 |
+| cod          |      ✔ |      ✔ |      ✔ |     ✔ |    13 |     15 |      13 |
 | mackerel     |      ✔ |      ✔ |      ✔ |     ✔ |    15 |     15 |      15 |
 | perch        |      ✔ |      ✔ |      ✔ |     ✔ |    15 |     15 |      15 |
 | red lionfish |      ✔ |      ✔ |      ✔ |     ✔ |    15 |     15 |      15 |
@@ -947,8 +950,8 @@ Harvest 20 of each type of herb found growing in Faiumoni
 
 | Herb       | Deluge | Seriph | Tendai | Antum | Dodle | Storks | Stormin |
 | ---------- | ------ | ------ | ------ | ----- | ----- | ------ | ------- |
-| arandula   |      ✔ |      ✔ |      ✔ |     ✔ |     7 |     18 |       ✔ |
-| kekik      |      ✔ |      ✔ |      ✔ |     ✔ |    16 |     14 |      16 |
+| arandula   |      ✔ |      ✔ |      ✔ |     ✔ |     7 |      5 |       ✔ |
+| kekik      |      ✔ |      ✔ |      ✔ |     ✔ |    16 |     11 |      16 |
 | mandragora |      ✔ |      ✔ |      ✔ |     ✔ |    20 |     18 |      17 |
 | sclaria    |      ✔ |      ✔ |      ✔ |     ✔ |    20 |     14 |      14 |
 
@@ -1066,7 +1069,7 @@ Produce 1,000 flour
 
 | Deluge | Seriph | Tendai | Antum | Dodle | Storks | Stormin |
 | ------ | ------ | ------ | ----- | ----- | ------ | ------- |
-|      ✔ |      ✔ |      ✔ |     ✔ | 1,000 |  1,000 |   1,000 |
+|      ✔ |      ✔ |      ✔ |     ✔ | 1,000 |    995 |   1,000 |
 
 
 ## Sowing Flowers
@@ -1094,16 +1097,16 @@ Complete all quests in Ados City
 | ------------------------------------ | ------ | ------ | ------ | ----- | ----- | ------ | ------- |
 | Coal for Haunchy®                    |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |      ✔ |         |
 | Coded Message from Finn Farmer®      |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |      ✔ |       ✔ |
-| Daily Item Quest®                    |      ✔ |      ✔ |      ✔ |     ✔ |       |        |       ✔ |
+| Daily Item Quest®                    |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |      ✔ |       ✔ |
 | Easter Gifts for Children (seasonal) |      ✔ |      ✔ |      ✔ |       |       |        |         |
 | Emotion Crystals                     |      ✔ |      ✔ |      ✔ |     ✔ |       |        |         |
 | Find Ghosts                          |      ✔ |      ✔ |      ✔ |     ✔ |       |        |         |
-| Fisherman's License Quiz             |      ✔ |      ✔ |      ✔ |     ✔ |       |        |       ✔ |
-| Fisherman's License Quiz 2           |      ✔ |      ✔ |      ✔ |     ✔ |       |        |       ✔ |
-| Fruits for Coralia®                  |      ✔ |      ✔ |      ✔ |       |       |        |       ✔ |
+| Fisherman's License Quiz             |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |      ✔ |       ✔ |
+| Fisherman's License Quiz 2           |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |      ✔ |       ✔ |
+| Fruits for Coralia®                  |      ✔ |      ✔ |      ✔ |       |     ✔ |      ✔ |       ✔ |
 | Kill Monks®                          |      ✔ |      ✔ |      ✔ |     ✔ |       |        |         |
-| Look Up Quote                        |      ✔ |      ✔ |      ✔ |     ✔ |       |        |       ✔ |
-| Meet Marie-Henri                     |      ✔ |      ✔ |      ✔ |     ✔ |       |        |       ✔ |
+| Look Up Quote                        |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |      ✔ |       ✔ |
+| Meet Marie-Henri                     |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |      ✔ |       ✔ |
 | Mithril Cloak                        |      ✔ |      ✔ |      ✔ |       |       |        |         |
 | The Pied Piper®                      |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |      ✔ |         |
 | Toys Collector                       |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |      ✔ |       ✔ |
@@ -1117,24 +1120,24 @@ Complete all quests in Semos City
 | ------------------------------ | ------ | ------ | ------ | ----- | ----- | ------ | ------- |
 | Armor for Dagobert             |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |      ✔ |       ✔ |
 | Beer for Hayunn                |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |      ✔ |       ✔ |
-| Bows for Ouchit                |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |      ✔ |         |
+| Bows for Ouchit                |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |      ✔ |       ✔ |
 | Clean the Storage Space        |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |      ✔ |       ✔ |
-| Daily Monster Quest®           |      ✔ |      ✔ |      ✔ |     ✔ |       |        |         |
+| Daily Monster Quest®           |      ✔ |      ✔ |      ✔ |     ✔ |       |        |       ✔ |
 | Goodies for Rudolph (seasonal) |      ✔ |      ✔ |      ✔ |     ✔ |       |        |         |
 | Hat for Monogenes              |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |      ✔ |       ✔ |
-| Herbs for Carmen               |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |        |       ✔ |
+| Herbs for Carmen               |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |      ✔ |       ✔ |
 | Hungry Joshua                  |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |      ✔ |       ✔ |
 | Learn About Orbs               |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |      ✔ |       ✔ |
-| Look for a Book for Ceryl      |      ✔ |      ✔ |      ✔ |     ✔ |       |        |         |
+| Look for a Book for Ceryl      |      ✔ |      ✔ |      ✔ |     ✔ |       |      ✔ |       ✔ |
 | Medicine for Tad               |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |      ✔ |       ✔ |
 | Meet Hackim Easso              |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |      ✔ |       ✔ |
 | Meet Hayunn Naratha            |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |      ✔ |       ✔ |
-| Meet Io                        |      ✔ |      ✔ |      ✔ |     ✔ |       |        |         |
-| Meet Ketteh Wehoh              |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |        |         |
+| Meet Io                        |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |      ✔ |       ✔ |
+| Meet Ketteh Wehoh              |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |      ✔ |       ✔ |
 | Meet Monogenes                 |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |      ✔ |       ✔ |
 | News from Hackim               |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |      ✔ |       ✔ |
-| Pizza Delivery®                |      ✔ |      ✔ |      ✔ |     ✔ |       |        |       ✔ |
-| Sheep Growing for Nishiya      |      ✔ |      ✔ |      ✔ |     ✔ |       |        |       ✔ |
+| Pizza Delivery®                |      ✔ |      ✔ |      ✔ |     ✔ |       |      ✔ |       ✔ |
+| Sheep Growing for Nishiya      |      ✔ |      ✔ |      ✔ |     ✔ |     ✔ |      ✔ |       ✔ |
 
 
 [icon.commerce]: https://raw.githubusercontent.com/AntumDeluge/arianne-stendhal/master/data/sprites/achievements/commerce.png
